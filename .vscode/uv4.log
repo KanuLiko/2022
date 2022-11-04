@@ -1,0 +1,7 @@
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'C:\Keil\ARM\ARMCC\Bin'
+Build target 'OHTS'
+compiling list.c...
+linking...
+Program Size: Code=280 RO-data=992 RW-data=4 ZI-data=1028  
+".\Objects\OHTS.axf" - 0 Error(s), 0 Warning(s).
+Build Time Elapsed:  00:00:00
